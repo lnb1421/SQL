@@ -1,0 +1,33 @@
+Create BataBase Cine
+
+-pelicula
+-titulo
+-director
+-actor
+-duracion
+
+
+//director
+
+-NyA
+-Domicilio
+-Telefono
+-Cantidad de peliculas
+-Dni
+
+
+//actor
+
+-Dni
+-NyA
+-Domicilio
+-Tel
+-Cant peli
+
+
+CREATE TABLE actor (dni integer);
+CREATE TABLE pelicula ( nombre varchar(100))
+
+
+
+
